@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import csv
 
-path is from my local repository
+
 df = pd.read_csv (r"C:\Users\Stephanie Villegas\Documents\UA-PHX-DATA-PT-08-2019-U-C\02-Homework\Resources\PyPoll_Resources_election_data.csv")
 print (df)
 
