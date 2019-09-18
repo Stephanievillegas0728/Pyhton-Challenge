@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 import csv
 
-
 df = pd.read_csv("budget_data.csv")
 df
 
